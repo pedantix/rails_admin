@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem "remotipart", github: "pedantix/remotipart", branch: "swh-upgrade-to-rails-5"
-
 gem 'appraisal', '>= 2.0'
 gem 'devise'
 
